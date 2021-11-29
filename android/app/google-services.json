@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "439897361163",
+    "project_id": "zentan01-e4d64",
+    "storage_bucket": "zentan01-e4d64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439897361163:android:c441a436a22098fa4bb00e",
+        "android_client_info": {
+          "package_name": "jp.wallery.zentan.develop01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439897361163-e2juf6g9socjate0vbgtush501t0gqrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7-yN12ECqMYYUxLI2MNEs-LCPYNF4vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439897361163-e2juf6g9socjate0vbgtush501t0gqrj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439897361163-91n3r8r8amt5ff7nt1miuvsp1li8kbl9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.wallery.zentan.develop01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
